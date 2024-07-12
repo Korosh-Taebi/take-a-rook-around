@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "take-a-rook-around"
+version = "0.1.0"
+description = ""
+authors = ["Korosh Taebi <korosh.taebi@udo.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+chess = "^1.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
