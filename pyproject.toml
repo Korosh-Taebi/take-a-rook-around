@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 chess = "^1.10.0"
+jupyterlab = "^4.2.4"
 
 
 [build-system]
